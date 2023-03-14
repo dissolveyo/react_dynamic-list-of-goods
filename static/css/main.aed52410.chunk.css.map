@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,UACE,SAAqB,CACtB,YAGC,WAAqB","file":"main.aed52410.chunk.css","sourcesContent":["// styles go\n.red-good {\n  color: rgb(255, 0, 0);\n}\n\n.green-good {\n  color: rgb(0, 128, 0);\n}\n"]}
